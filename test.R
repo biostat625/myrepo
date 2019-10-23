@@ -7,3 +7,4 @@ g = function(x) f(x)
 h = function(x) g(x)
 
 h("1")
+
