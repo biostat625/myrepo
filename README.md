@@ -2,4 +2,4 @@
 
 ### this my readme
 
-I want to add a _TODO_ list
+this is my _TODO_ list
